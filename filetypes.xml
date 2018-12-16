@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="p" type="PLAIN_TEXT" />
+      <mapping pattern="queryPrevPos" type="SQL" />
     </extensionMap>
   </component>
 </application>
